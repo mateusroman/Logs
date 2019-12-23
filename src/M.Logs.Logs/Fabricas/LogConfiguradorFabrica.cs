@@ -1,4 +1,5 @@
 ﻿using M.Logs.Interfaces;
+using M.Logs.Logs.Configuradores;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +11,7 @@ namespace M.Logs.Logs.Fabricas
     public class LogConfiguradorFabrica
     {
         public static ILogConfigurador Criar() {
-
+            return new ConfiguradorLog4Net();
         }
     }
 }

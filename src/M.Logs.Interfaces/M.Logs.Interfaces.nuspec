@@ -9,8 +9,8 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <projectUrl>https://github.com/Marciel032/Logs</projectUrl>
-    <description>$description$</description>
-    <releaseNotes>Permite gravar logs da aplicação.</releaseNotes>
+    <description>Permite gravar logs da aplicação.</description>
+    <releaseNotes></releaseNotes>
     <copyright>Copyright 2019</copyright>
     <tags>m log logs mlog mlogs m.log m.logs</tags>
   </metadata>

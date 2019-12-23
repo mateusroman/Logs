@@ -34,6 +34,15 @@
     <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
       <HintPath>..\..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
     </Reference>
+    <Reference Include="M.Logs.Extensoes, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\M.Logs.Extensoes.1.0.0\lib\net45\M.Logs.Extensoes.dll</HintPath>
+    </Reference>
+    <Reference Include="M.Logs.Interfaces, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\M.Logs.Interfaces.1.0.0.1\lib\net45\M.Logs.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Newtonsoft.Json.10.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -51,17 +60,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="M.Logs.Logs.nuspec" />
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\M.Logs.Extensoes\M.Logs.Extensoes.csproj">
-      <Project>{fd969007-2f4f-48e4-8ad5-e2bd24bdadd1}</Project>
-      <Name>M.Logs.Extensoes</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\M.Logs.Interfaces\M.Logs.Interfaces.csproj">
-      <Project>{7aacd42a-b004-4ccb-bc16-d49cfabcdb76}</Project>
-      <Name>M.Logs.Interfaces</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
