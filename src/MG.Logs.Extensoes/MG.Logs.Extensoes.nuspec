@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Marciel Grutzmann</authors>
+    <owners>Marciel Grutzmann</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+    <description>Permite gravar logs da aplicação.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>mg log logs mglog mglogs</tags>
+  </metadata>
+</package>
