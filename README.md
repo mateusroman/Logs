@@ -1,7 +1,7 @@
 # Logs
 Permite a gravação de logs pelo aplicativo
 
-Exemplo:
+###Exemplo:
 
 ```csharp
 public static void Main()
@@ -30,3 +30,6 @@ public class Exemplo
   }
 }
 ```
+
+
+###Configuração
