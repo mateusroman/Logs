@@ -7,8 +7,8 @@
     <ProjectGuid>{7AACD42A-B004-4CCB-BC16-D49CFABCDB76}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MG.Logs.Interfaces</RootNamespace>
-    <AssemblyName>MG.Logs.Interfaces</AssemblyName>
+    <RootNamespace>M.Logs.Interfaces</RootNamespace>
+    <AssemblyName>M.Logs.Interfaces</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

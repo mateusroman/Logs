@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associada a um assembly.
-[assembly: AssemblyTitle("MG.Logs.Logs")]
-[assembly: AssemblyDescription("MG.Logs.Logs")]
+[assembly: AssemblyTitle("M.Logs.Logs")]
+[assembly: AssemblyDescription("M.Logs.Logs")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MG.Logs.Logs")]
+[assembly: AssemblyProduct("M.Logs.Logs")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

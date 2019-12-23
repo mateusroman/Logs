@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MG.Logs.Extensoes", "src\MG.Logs.Extensoes\MG.Logs.Extensoes.csproj", "{FD969007-2F4F-48E4-8AD5-E2BD24BDADD1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M.Logs.Extensoes", "src\M.Logs.Extensoes\M.Logs.Extensoes.csproj", "{FD969007-2F4F-48E4-8AD5-E2BD24BDADD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MG.Logs.Interfaces", "src\MG.Logs.Interfaces\MG.Logs.Interfaces.csproj", "{7AACD42A-B004-4CCB-BC16-D49CFABCDB76}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M.Logs.Interfaces", "src\M.Logs.Interfaces\M.Logs.Interfaces.csproj", "{7AACD42A-B004-4CCB-BC16-D49CFABCDB76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MG.Logs.Logs", "src\MG.Logs.Logs\MG.Logs.Logs.csproj", "{D95F5E4B-C692-4861-BB4C-093C0E2B5FAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M.Logs.Logs", "src\M.Logs.Logs\M.Logs.Logs.csproj", "{D95F5E4B-C692-4861-BB4C-093C0E2B5FAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

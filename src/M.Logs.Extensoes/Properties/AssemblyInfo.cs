@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associada a um assembly.
-[assembly: AssemblyTitle("MG.Logs.Interfaces")]
-[assembly: AssemblyDescription("MG.Logs.Interfaces")]
+[assembly: AssemblyTitle("M.Logs.Extensoes")]
+[assembly: AssemblyDescription("M.Logs.Extensoes")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MG.Logs.Interfaces")]
+[assembly: AssemblyProduct("MG.Logs.Extensoes")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // O GUID a seguir será destinado à ID de typelib se este projeto for exposto para COM
-[assembly: Guid("7aacd42a-b004-4ccb-bc16-d49cfabcdb76")]
+[assembly: Guid("fd969007-2f4f-48e4-8ad5-e2bd24bdadd1")]
 
 // As informações da versão de um assembly consistem nos quatro valores a seguir:
 //

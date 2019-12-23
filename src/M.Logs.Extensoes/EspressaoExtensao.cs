@@ -3,7 +3,7 @@ using System;
 using System.Linq.Expressions;
 using System.Reflection;
 
-namespace MG.Logs.Extensoes
+namespace M.Logs.Extensoes
 {
     public static class EspressaoExtensao
     {

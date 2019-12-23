@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Linq.Expressions;
-using MG.Logs.Interfaces;
-using MG.Logs.Extensoes;
+using M.Logs.Interfaces;
+using M.Logs.Extensoes;
 
-namespace MG.Log.Logs
+namespace M.Log.Logs
 {
     public class Log4Net : ILog, ILogConstrutor
     {        

@@ -1,6 +1,6 @@
-﻿using MG.Logs.Interfaces;
+﻿using M.Logs.Interfaces;
 
-namespace MG.Log.Logs
+namespace M.Log.Logs
 {
     public class LogFabrica
     {

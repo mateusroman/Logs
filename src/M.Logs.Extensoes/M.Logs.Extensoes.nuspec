@@ -8,11 +8,10 @@
     <owners>Marciel Grutzmann</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
-    <projectUrl></projectUrl>
-    <iconUrl></iconUrl>
+    <projectUrl>https://github.com/Marciel032/Logs</projectUrl>
     <description>Permite gravar logs da aplicação.</description>
     <releaseNotes></releaseNotes>
     <copyright>Copyright 2019</copyright>
-    <tags>mg log logs mglog mglogs</tags>
+    <tags>m log logs mlog mlogs m.log m.logs</tags>
   </metadata>
 </package>

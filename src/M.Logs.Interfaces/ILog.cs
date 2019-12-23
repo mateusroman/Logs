@@ -1,5 +1,5 @@
 ﻿
-namespace MG.Logs.Interfaces
+namespace M.Logs.Interfaces
 {
     public interface ILog
     {        

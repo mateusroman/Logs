@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq.Expressions;
 
-namespace MG.Logs.Interfaces
+namespace M.Logs.Interfaces
 {
     public interface ILogConstrutor
     {
