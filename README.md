@@ -48,5 +48,6 @@ class Program
 Resultado:
 
 2019-12-23 16:09:03,445 [1] DEBUG - Exemplo.Executar -  numero: 1
+
 2019-12-23 16:09:03,495 [1] DEBUG - Exemplo.Executar - Terminou
 
