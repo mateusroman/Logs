@@ -44,6 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Configuradores\ConfiguradorLog4Net.cs" />
+    <Compile Include="Fabricas\LogConfiguradorFabrica.cs" />
     <Compile Include="Fabricas\LogFabrica.cs" />
     <Compile Include="Logs\Log4Net.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
