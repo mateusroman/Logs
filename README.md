@@ -1,5 +1,6 @@
 # Logs
-Permite a gravação de logs pelo aplicativo
+Permite a gravação de logs em arquivo texto.
+Arquivos serão gravados na pasta Logs, juntamente com o executável.
 
 Nuget: https://www.nuget.org/packages/M.Logs.Logs
 
