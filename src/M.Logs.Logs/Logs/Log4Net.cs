@@ -17,7 +17,7 @@ namespace M.Log.Logs
         private string metodo;
 
         public Log4Net() {            
-            log = log4net.LogManager.GetLogger("", "Bob");
+            log = log4net.LogManager.GetLogger("MLog");
             parametros = new List<Expression>();
             mensagens = new List<string>();
             exceptions = new List<Exception>();
