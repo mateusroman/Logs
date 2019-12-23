@@ -1,6 +1,7 @@
 # Logs
 Permite a gravação de logs pelo aplicativo
 
+Nuget: https://www.nuget.org/packages/M.Logs.Logs
 
 Exemplo:
 
