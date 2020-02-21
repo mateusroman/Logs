@@ -51,3 +51,37 @@ Resultado:
 
 2019-12-23 16:09:03,495 [1] DEBUG - Exemplo.Executar - Terminou
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+# LogUtils
+
+```csharp
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            var logConfigurador = LogConfiguradorFabrica.Criar();
+            logConfigurador.Configurar();
+            var logUtil = new LogUtil(logConfigurador);
+            logUtil.MudarLevel(LogLevel.Informacao);
+            logUtil.Escrever("Log definido para informação.");
+            logUtil.MudarLevel(LogLevel.Alerta);
+            logUtil.Escrever("Log definido para alerta.");
+            logUtil.MudarLevel(LogLevel.Erro);
+            logUtil.Escrever("Log definido para erro.");
+            logUtil.MudarLevel(LogLevel.Fatal);
+            logUtil.Escrever("Log definido para fatal.");
+        }
+    }
+```
+
+Resultado:
+
+2020-02-20 17:34:51,031 [1] INFO  - Program.Main - Log definido para informação.
+
+2020-02-20 17:34:51,061 [1] WARN  - Program.Main - Log definido para alerta.
+
+2020-02-20 17:34:51,062 [1] ERROR - Program.Main - Log definido para erro.
+
+2020-02-20 17:34:51,063 [1] FATAL - Program.Main - Log definido para fatal.
+
