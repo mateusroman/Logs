@@ -4,11 +4,6 @@ using log4net.Core;
 using log4net.Layout;
 using log4net.Repository.Hierarchy;
 using M.Logs.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace M.Logs.Logs.Configuradores
 {
